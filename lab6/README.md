@@ -40,5 +40,8 @@ npm run dev
 at last, in browser open http://localhost:5173/
 
 
-[![Demo]()](./demo.mp4)
+[![Demo](./demo.mp4)](./demo.mp4)
 ./demo.mp4
+
+https://github.com/junior-idiot/aselia-js-labs/assets/24874264/930e56ad-30eb-4c4f-9c66-913737569d8e
+
