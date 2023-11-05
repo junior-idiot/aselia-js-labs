@@ -1,0 +1,13 @@
+.progress-bar::-webkit-progress-bar {
+    background-color: #e5e7eb;
+    border-radius: 10px;
+}
+.progress-bar::-webkit-progress-value {
+    background-color: #7c3aed;
+    border-radius: 10px;
+    transition: width 0.2s ease-in-out;
+}
+.progress-bar::-moz-progress-bar {
+    background-color: #7c3aed;
+    border-radius: 10px;
+}

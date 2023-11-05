@@ -1,0 +1,11 @@
+.primary {
+    @apply bg-violet-600 hover:bg-violet-800 text-white;
+}
+
+.secondary {
+    @apply bg-transparent border-2 border-solid border-violet-600 text-violet-600 hover:bg-violet-600 hover:text-white;
+}
+
+.error {
+    @apply bg-red-500 hover:bg-red-700 text-white;
+}
